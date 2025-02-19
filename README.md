@@ -4,7 +4,7 @@ This repository contains FPGA-based projects implemented on the **PYNQ-Z2 board*
 ## 🔍 Projects Overview  
 
 - **LED Blinking:** A basic project that toggles LEDs at different rates using hardware description languages (HDL) and Python.  
-- **FPGA Adder:** Implements a **4-bit binary adder** on the PYNQ-Z2 board using Verilog/SystemVerilog.  
+- **Adder:** Implements a **4-bit binary adder** on the PYNQ-Z2 board using Verilog/SystemVerilog.  
 
 ## 🛠 Tools & Technologies  
 
