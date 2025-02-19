@@ -41,7 +41,7 @@ This approach implements an **FPGA-based LED blinking circuit** in Verilog, usin
 
 If this is your **first time using the PYNQ-Z2 board**, check out the **[Adder Project](../Adder/README.md)**.  
 - It includes a **step-by-step tutorial** on setting up the board, working with **PS and PL**, and testing a simple **4-bit adder**.  
-- You can find the tutorial document [here](../Adder/adder tutorial.pdf).  
+- You can find the tutorial document [here](../Adder/adder_tutorial.pdf).  
 
 ## 📌 Future Enhancements  
 ✔ Add **PWM-based LED control** for brightness adjustment.  
