@@ -54,7 +54,5 @@ For a **detailed tutorial** on implementing both versions, refer to:
 ## 📬 Contact  
 📧 Email: sridurgaraju07@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/sri-durga-raju/
----
 
 Happy FPGA Programming! 🚀✨  
-
