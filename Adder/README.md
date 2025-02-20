@@ -1,4 +1,4 @@
-## ➕ FPGA-Based Adder Implementations on PYNQ-Z2  
+# ➕ FPGA-Based Adder Implementations on PYNQ-Z2  
 
 This project showcases two different **adder implementations** on the **PYNQ-Z2 FPGA board**:  
 1. **Basic 4-bit Adder** – Designed in Verilog, synthesized in **Xilinx Vivado**, and tested using **Python in Jupyter Notebook**.  
