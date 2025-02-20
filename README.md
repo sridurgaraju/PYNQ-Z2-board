@@ -1,4 +1,4 @@
-## 🚀 PYNQ-Z2 FPGA Projects  
+# 🚀 PYNQ-Z2 FPGA Projects  
 
 This repository contains FPGA-based projects implemented on the **PYNQ-Z2 board**. These projects demonstrate various **digital design and embedded system concepts**, ranging from simple LED blinking to more complex processing tasks.  
 ## 🔍 Projects Overview  
