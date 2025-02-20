@@ -32,6 +32,6 @@ Alternatively, you can manually download the design files from the respective pr
 - Navigate to the respective project directory
 - Run the provided Python scripts in Jupyter Notebook
 
-##📌 Future Additions
+## 📌 Future Additions
 - Memory-mapped I/O projects
 - Communication protocols (I2C, SPI, UART)
