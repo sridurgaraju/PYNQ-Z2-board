@@ -11,8 +11,8 @@ A **detailed tutorial** explaining the implementation steps is included in this 
 ## ** Basic 4-Bit Adder (PS-PL Interaction)**  
 
 This implementation consists of:  
-✔ A **4-bit Verilog adder** synthesized in **Xilinx Vivado**  
-✔ A **Python script** in Jupyter Notebook to provide inputs via **AXI GPIO** and read the sum  
+- A **4-bit Verilog adder** synthesized in **Xilinx Vivado**  
+- A **Python script** in Jupyter Notebook to provide inputs via **AXI GPIO** and read the sum  
 
 ### ** Setup & Running the Basic Adder**
 1. Open **Vivado** and create a new project.  
@@ -25,8 +25,8 @@ This implementation consists of:
 ## ** Adder with 7-Segment Display**  
 
 This version extends the basic adder by:  
-✔ Converting the sum to **Binary-Coded Decimal (BCD)**  
-✔ Displaying the sum on **two 7-segment displays** via **PMOD connectors**  
+- Converting the sum to **Binary-Coded Decimal (BCD)**  
+- Displaying the sum on **two 7-segment displays** via **PMOD connectors**  
 
 ### ** Setup & Running the 7-Segment Adder**  
 1. Open **Vivado**, create a new project, and add the following files:  
@@ -46,8 +46,8 @@ For a **detailed tutorial** on implementing both versions, refer to:
 ---
 
 ## Future Enhancements  
-✔ Implement **larger bit-width adders** (e.g., 8-bit, 16-bit)  
-✔ Integrate with **PYNQ overlays for efficient hardware acceleration**  
+- Implement **larger bit-width adders** (e.g., 8-bit, 16-bit)  
+- Integrate with **PYNQ overlays for efficient hardware acceleration**  
 
 ---
 
