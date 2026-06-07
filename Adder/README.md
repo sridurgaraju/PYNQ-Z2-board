@@ -1,4 +1,4 @@
-# ➕ FPGA-Based Adder Implementations on PYNQ-Z2  
+# FPGA-Based Adder Implementations on PYNQ-Z2  
 
 This project showcases two different **adder implementations** on the **PYNQ-Z2 FPGA board**:  
 1. **Basic 4-bit Adder** – Designed in Verilog, synthesized in **Xilinx Vivado**, and tested using **Python in Jupyter Notebook**.  
@@ -8,13 +8,13 @@ A **detailed tutorial** explaining the implementation steps is included in this 
 
 ---
 
-## 🔹 **1️⃣ Basic 4-Bit Adder (PS-PL Interaction)**  
+## ** Basic 4-Bit Adder (PS-PL Interaction)**  
 
 This implementation consists of:  
 ✔ A **4-bit Verilog adder** synthesized in **Xilinx Vivado**  
 ✔ A **Python script** in Jupyter Notebook to provide inputs via **AXI GPIO** and read the sum  
 
-### **🛠 Setup & Running the Basic Adder**
+### ** Setup & Running the Basic Adder**
 1. Open **Vivado** and create a new project.  
 2. Add `adder.v` to the project and generate the **bitstream (`.bit` file)**.  
 3. Export the bitstream and place it in **Jupyter Notebook's workspace**.  
@@ -22,13 +22,13 @@ This implementation consists of:
 
 ---
 
-## 🔹 **2️⃣ Adder with 7-Segment Display**  
+## ** Adder with 7-Segment Display**  
 
 This version extends the basic adder by:  
 ✔ Converting the sum to **Binary-Coded Decimal (BCD)**  
 ✔ Displaying the sum on **two 7-segment displays** via **PMOD connectors**  
 
-### **🛠 Setup & Running the 7-Segment Adder**  
+### ** Setup & Running the 7-Segment Adder**  
 1. Open **Vivado**, create a new project, and add the following files:  
    - `adder_7seg.v` (Adder logic)  
    - `binary_to_bcd.v` (Binary to BCD conversion)  
@@ -39,20 +39,20 @@ This version extends the basic adder by:
 
 ---
 
-## 📘 **Step-by-Step Guide**  
+## **Step-by-Step Guide**  
 For a **detailed tutorial** on implementing both versions, refer to:  
-📄 **[adder_tutorial.pdf](./adder_tutorial.pdf)**  
+**[adder_tutorial.pdf](./adder_tutorial.pdf)**  
 
 ---
 
-## 📌 Future Enhancements  
+## Future Enhancements  
 ✔ Implement **larger bit-width adders** (e.g., 8-bit, 16-bit)  
 ✔ Integrate with **PYNQ overlays for efficient hardware acceleration**  
 
 ---
 
-## 📬 Contact  
-📧 Email: sridurgaraju07@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sri-durga-raju/
+## Contact  
+Email: sridurgaraju07@gmail.com
+LinkedIn: https://www.linkedin.com/in/sri-durga-raju/
 
 Happy FPGA Programming! 🚀✨  
