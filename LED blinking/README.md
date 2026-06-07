@@ -46,7 +46,7 @@ If this is your **first time using the PYNQ-Z2 board**, check out the **[Adder P
 ---
 
 ## Future Enhancements   
-✔ Implement **PS-PL communication** to toggle LEDs from Python while running custom FPGA logic.  
+- Implement **PS-PL communication** to toggle LEDs from Python while running custom FPGA logic.  
 
 ---
 
