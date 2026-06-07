@@ -1,18 +1,18 @@
-# 🚀 PYNQ-Z2 FPGA Projects  
+# PYNQ-Z2 FPGA Projects  
 
 This repository contains FPGA-based projects implemented on the **PYNQ-Z2 board**. These projects demonstrate various **digital design and embedded system concepts**, ranging from simple LED blinking to more complex processing tasks.  
-## 🔍 Projects Overview  
+## Projects Overview  
 
 - **LED Blinking:** A basic project that toggles LEDs at different rates using hardware description languages (HDL) and Python.  
 - **Adder:** Implements a **4-bit binary adder** on the PYNQ-Z2 board using Verilog/SystemVerilog.  
 
-## 🛠 Tools & Technologies  
+## Tools & Technologies  
 
 - **Hardware:** PYNQ-Z2 FPGA Board  
 - **Languages:** Verilog, SystemVerilog, Python  
 - **Development Tools:** Xilinx Vivado, PYNQ Framework (Jupyter Notebook)  
 
-## 🔧 Setup & Running the Projects  
+## Setup & Running the Projects  
 
 1. **Clone the repository** or download the required project files:  
    ```bash
@@ -32,6 +32,6 @@ Alternatively, you can manually download the design files from the respective pr
 - Navigate to the respective project directory
 - Run the provided Python scripts in Jupyter Notebook
 
-## 📌 Future Additions
+## Future Additions
 - Memory-mapped I/O projects
 - Communication protocols (I2C, SPI, UART)
